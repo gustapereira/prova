@@ -1,0 +1,2 @@
+insert into TB_USUARIO(TX_NOME, TX_CPF, TX_LOGIN, PW_SENHA, EMUM_PERFIL) values('Gustavo Henrique Jardim Pereira', '71593098120', 'gustavo.pereira','123456','ADMINISTRADOR');
+insert into TB_USUARIO(TX_NOME, TX_CPF, TX_LOGIN, PW_SENHA, EMUM_PERFIL) values('Samia Maradya dias Fernandes', '03723896197', 'samia.fernandes','123456','USUARIO');
